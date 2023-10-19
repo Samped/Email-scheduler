@@ -6,7 +6,7 @@ const HOST_SERVICE = "smtp-relay.sendinblue.com";
 const SENDERS_EMAIL = USER_EMAIL; // Change this to the sender's email id
 
 //! You cannot use a temp mail id as your sender's email id as it does not have the functionality to send emails, it can only receive emails
-const RECEIVERS_EMAIL = ["michaelsamuelpedro@gmail.com","babatundeomolade1212@gmail.com","ottahsamuelhg@gmial.com"]; // Change this to target email id
+const RECEIVERS_EMAIL = ["email@gmail.com","email2@gmail.com","email3@gmial.com"]; // Change this to target email id
 const CC = []; // Array of recipients email addresses that will appear on the Cc: field
 const BCC = []; // Array of recipients email addresses that will appear on the Bcc: field
 const EMAIL_SUBJECT = "The Lord is a Faithful Lover";
