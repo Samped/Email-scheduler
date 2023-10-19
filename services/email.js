@@ -9,7 +9,7 @@ const SENDERS_EMAIL = USER_EMAIL; // Change this to the sender's email id
 const RECEIVERS_EMAIL = ["email@gmail.com","email2@gmail.com","email3@gmial.com"]; // Change this to target email id
 const CC = []; // Array of recipients email addresses that will appear on the Cc: field
 const BCC = []; // Array of recipients email addresses that will appear on the Bcc: field
-const EMAIL_SUBJECT = "The Lord is a Faithful Lover";
+const EMAIL_SUBJECT = "JESUS is a Faithful Lover";
 const EMAIL_BODY_TEXT ="smile "
 const EMAIL_BODY_HTML =
 "<h1>Come to think of it</h1><br> The only one that saw us in our dirt, in our shame in our nakedness and still fell deeply in love with us. The sweet thing is that he didn't just stopped there, NO he said i want them for my bride and he removed all his kingly garment, and came down from the throne and came to the pit of the dirt and brought us from it cleaned us and clothed us with his own garment and made us sit with him in his kingdom as a worthy bride fair to behold, <h1>oh What a king we have!!<h1>";
