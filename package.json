@@ -1,0 +1,25 @@
+{
+  "name": "email-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samped/Email-scheduler.git"
+  },
+  "author": "ottah samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samped/Email-scheduler/issues"
+  },
+  "homepage": "https://github.com/Samped/Email-scheduler#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.6"
+  }
+}
